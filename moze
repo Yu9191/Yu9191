@@ -6,7 +6,7 @@
 
 [rewrite_local]
 # > Moze解锁永久订阅
-^https?:\/\/api\.revenuecat\.com\/v1\/(receipts|subscribers\/.{36}|subscribers\/\w{14})$ url script-response-body https://raw.githubusercontent.com/jizhi0520/QX/main/Moze.js
+^https?:\/\/api\.revenuecat\.com\/v1\/(receipts|subscribers\/.{36}|subscribers\/\w{14})$ url script-response-body https://github.com/Yu9191/Yu9191/edit/main/moze
 
 [mitm] 
 hostname = api.revenuecat.com
