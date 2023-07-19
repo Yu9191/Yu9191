@@ -1,62 +1,21 @@
 /******************************
 
-脚本功能：Moze解锁
+脚本功能：Lensa解锁感谢@骨钉指导
 使用说明：⚠️只提供学习交流，🈲️商业用途忽悠
 ******************************
 
 [rewrite_local]
-# > Moze解锁永久订阅
-^https?:\/\/api\.revenuecat\.com\/v1\/(receipts|subscribers\/.{36}|subscribers\/\w{14})$ url script-response-body https://github.com/Yu9191/Yu9191/edit/main/moze
+# > Lensa解锁永久订阅
+^https:\/\/appapi\.neuralprisma\.com\/receipt\/ios\/status\/lensa url script-response-body https://github.com/Yu9191/Yu9191/edit/main/moze.js
 
 [mitm] 
-hostname = api.revenuecat.com
+hostname =appapi.neuralprisma.com
 
 *******************************/
+*/
+var Yu = JSON.parse($response.body);
+Yu.is_valid = true;
+Yu.expiration_date_unix = 1579204857600;
+Yu.expiration_date = "52013-01-04T00:00:00Z";
+$done({ body: JSON.stringify(Yu) });
 
-
-let obj = JSON.parse($response.body);
-   
-    obj = {
-    "request_date_ms" : 1668744603950,
-    "request_date" : "2022-11-18T04:10:03Z",
-    "subscriber" : {
-      "non_subscriptions" : {
-  
-      },
-      "first_seen" : "2022-11-18T04:02:28Z",
-      "original_application_version" : "10",
-      "other_purchases" : {
-  
-      },
-      "management_url" : "https://apps.apple.com/account/subscriptions",
-      "subscriptions" : {
-        "MOZE_PRO_SUBSCRIPTION_YEARLY_BASIC" : {
-          "original_purchase_date" : "2022-11-18T03:57:16Z",
-          "expires_date" : "9999-12-31T00:00:00Z",
-          "is_sandbox" : false,
-          "refunded_at" : null,
-          "unsubscribe_detected_at" : null,
-          "grace_period_expires_date" : null,
-          "period_type" : "trial",
-          "purchase_date" : "2022-11-18T04:00:12Z",
-          "billing_issues_detected_at" : null,
-          "ownership_type" : "PURCHASED",
-          "store" : "app_store",
-          "auto_resume_date" : null
-        }
-      },
-      "entitlements" : {
-        "MOZE_PREMIUM_SUBSCRIPTION" : {
-          "grace_period_expires_date" : null,
-          "purchase_date" : "2022-11-18T04:00:12Z",
-          "product_identifier" : "MOZE_PRO_SUBSCRIPTION_YEARLY_BASIC",
-          "expires_date" : "9999-12-31T00:00:00Z"
-        }
-      },
-      "original_purchase_date" : "2013-08-01T07:00:00Z",
-      "original_app_user_id" : "$RCAnonymousID:083712fc52e642179860541d6975f8c4",
-      "last_seen" : "2022-11-18T04:02:28Z"
-    }
-  }
-  
-$done({body : JSON.stringify(obj)});
