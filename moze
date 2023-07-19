@@ -6,7 +6,7 @@
 
 [rewrite_local]
 # > Lensa解锁永久订阅
-^https:\/\/appapi\.neuralprisma\.com\/receipt\/ios\/status\/lensa url script-response-body https://github.com/Yu9191/Yu9191/edit/main/moze.js
+^https:\/\/appapi\.neuralprisma\.com\/receipt\/ios\/status\/lensa url script-response-body https://github.com/Yu9191/Yu9191/edit/main/moze
 
 [mitm] 
 hostname =appapi.neuralprisma.com
