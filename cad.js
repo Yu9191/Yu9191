@@ -3,8 +3,7 @@ Cad快速看图 https://apps.apple.com/cn/app/cad%E5%BF%AB%E9%80%9F%E7%9C%8B%E5%
 
 
 [rewrite_local]
-^https:\/\/cad\.glodon\.com\/account\/ url script-response-body
-cad.js
+^https:\/\/cad\.glodon\.com\/account\/ url script-response-body https://raw.githubusercontent.com/Yu9191/Yu9191/main/cad.js
 
 [MITM]
 hostname = cad.glodon.com
