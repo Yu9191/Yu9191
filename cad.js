@@ -1,6 +1,11 @@
-/*
-Cad快速看图 https://apps.apple.com/cn/app/cad%E5%BF%AB%E9%80%9F%E7%9C%8B%E5%9B%BE-%E5%A4%A9%E6%AD%A3%E5%85%A8%E4%B8%93%E4%B8%9A/id878550740
 
+/*
+Cad快速看图 https://t.cn/A60VKj9S
+#测试@ios151
+#Cad快速看图
+#解锁会员功能 账号密码随便输登录即可
+#模拟测试请勿传播
+#本人共享token 请勿随意删除“快看云盘”里面的图纸 否则失效
 
 [rewrite_local]
 ^https?:\/\/cad\.glodon\.com\/(account|authorize\/query|alipay\/auth) url script-response-body https://raw.githubusercontent.com/Yu9191/Yu9191/main/cad.js
