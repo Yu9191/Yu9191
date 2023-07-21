@@ -41,4 +41,15 @@ var responseData = {
 };
 
 // 模拟请求处理
-function handleRequest(
+function handleRequest(requestData) {
+  // 这里可以对requestData进行处理，根据不同的请求参数返回不同的responseData
+  // 在实际测试中，您可以根据您的需求修改模拟的请求处理逻辑
+  return responseData;
+}
+
+// 调用handleRequest处理请求并返回模拟数据
+var response = handleRequest(requestData);
+
+// 返回修改后的数据
+$done({ body: JSON.stringify(response) });
+
