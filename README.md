@@ -14,11 +14,6 @@
 
 ## Love my wife
 
-- Introduction
-- Installation
-- Usage
-- Features
-- License
 
 
 ## About the Project
