@@ -16,9 +16,6 @@
 
 
 
-## About the Project
-
-A brief introduction to your project. Explain what it does, why it exists, and who it's for. Mention the main benefits and unique features.
 
 ### Built With
 
