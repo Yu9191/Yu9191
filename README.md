@@ -34,8 +34,8 @@ A brief introduction to your project. Explain what it does, why it exists, and w
 
 List the technologies, languages, or frameworks used to build your project.
 
-- Technology 1
-- Technology 2
+- Tg@ios151
+- Learn to Telegram together
 - ...
 
 <!-- Add screenshots, gifs, or any visual representation of your project -->
