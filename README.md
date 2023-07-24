@@ -29,7 +29,7 @@ List the technologies, languages, or frameworks used to build your project.
 
 ## Getting Started
 
-Instructions on setting up and running your project. Include any prerequisites or dependencies required.
+希望你对生活充满期待！
 
 ### Installation
 
