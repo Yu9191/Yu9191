@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="your_logo.png" alt="Your Project Logo" width="200" height="200">
+  <img src="https://raw.githubusercontent.com/Yu9191/-/main/nv2.png" alt="Your Project Logo" width="200" height="200">
 </p>
 
 # Your Project Name
