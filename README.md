@@ -1,33 +1,24 @@
-# 生活，充满向往:call_me_hand::call_me_hand:
+## 自我介绍
 
-![Life's Wonder](https://raw.githubusercontent.com/Yu9191/-/main/nv2.png)
+我是一个初学者，目前对JavaScript有一些基础了解。在学习过程中，我发现了ScriptHub转换器，它真是太牛逼了！ScriptHub让我不再为代理规则的兼容性问题犯愁，能够快速将QuantumultX的规则转换为我喜爱的代理软件格式，让我轻松应对各种平台。现在，我能够更专注于我的学习和上网体验，真是太方便了！
 
-生活，是一场奇妙的冒险，充满了未知和可能。让我们一起探索、发现、追求梦想，庆祝每一个时刻，传播积极的力量，战胜内心的恐惧。
+如果您也想体验ScriptHub的强大功能，不妨访问 [GitHub](https://github.com/Script-Hub-Org/Script-Hub/wiki/%E5%AE%89%E8%A3%85) 了解更多信息。
 
-# ScriptHub转换器介绍
+> "ScriptHub：让规则转换变得轻松愉快！" :rocket:
 
-**ScriptHub转换器** 是一款功能强大的工具，专门用于将 QuantumultX 的重写规则转换为 Surge、Loon 和 Shadowrocket 等代理软件平台兼容的格式。它能够让您轻松地在不同平台之间迁移和使用重写规则，使您的代理配置更加便捷和灵活。
+# ScriptHub转换器特点和优势
 
-## 特点和优势
+| 特点和优势          | 描述                                                         |
+|-------------------|------------------------------------------------------------|
+| :rocket: 多功能转换 | 支持重写、规则集和规则的转换，一站式满足您的多种转换需求。          |
+| :iphone: 多平台兼容 | 兼容Surge、Loon、Shadowrocket等多种代理软件平台，轻松适配您的选择。   |
+| :bulb: 智能优化    | 强大的优化算法，快速高效地转换规则，让您的代理配置更加高效稳定。     |
+| :smile: 用户友好   | 简洁易用的界面和操作，无需繁琐学习，轻松上手，适合各类用户。         |
+| :free: 开源自由    | 完全开源并免费，您可以根据需要自由定制和使用，尽情发挥您的创意。       |
+| :arrows_clockwise: 持续更新和支持 | 不断更新和改进，提供持续稳定的支持，确保您始终使用最新的功能和优化。 |
+| :raised_hands: 强大的社区支持 | 拥有活跃的开发者社区，提供丰富的资源和帮助，让您更好地使用ScriptHub。 |
+| :construction: 解决兼容性难题 | 解决QuantumultX规则在不同平台之间的兼容性问题，让您无忧使用代理规则。 |
+| :zap: 简洁高效的规则转换 | 简单几步，即可将规则转换为您喜爱的代理软件格式，快速上手，便捷高效。    |
+| :star: 助力代理配置优化 | 提供优质代理规则转换服务，帮助您优化代理配置，提升上网体验。            |
+| :speech_balloon: 反馈和交流渠道 | 提供反馈和交流渠道，为用户解决问题和收集反馈，不断改进和完善ScriptHub。 |
 
-- **快速转换**：ScriptHub转换器能够快速高效地将QuantumultX的重写规则转换为其他代理软件平台支持的格式，节省您的时间和精力。
-
-- **多平台支持**：该转换器兼容多种代理软件平台，包括 Surge、Loon、Shadowrocket 等，确保您可以在您喜爱的平台上使用重写规则。
-
-- **用户友好**：ScriptHub转换器提供简单易用的界面和操作，使它适合各类用户，不需要深入了解复杂的规则语法。
-
-- **开源免费**：作为开源项目，ScriptHub转换器完全免费，您可以根据需要自由定制和使用。
-
-## 我的经验
-
-作为一个**小白初学者**，我只会写一点简单的 Js。在学习过程中，发现 QuantumultX 的重写规则对我来说有点复杂。然而，幸运的是，我发现了 ScriptHub转换器！它帮助我将 QuantumultX 的规则转换为我喜欢的代理软件平台格式，如 Surge 和 Loon。现在，我可以在不同的平台上轻松使用自己的重写规则，感觉真是太棒了！
-
-## 使用ScriptHub转换器
-
-如果您想在不同的代理软件平台之间迁移和使用 QuantumultX 的重写规则，我们强烈推荐使用 ScriptHub转换器。您可以在 [GitHub](https://github.com/Script-Hub-Org/Script-Hub/wiki/%E5%AE%89%E8%A3%85) 上找到该项目并获取更多信息。
-
-```javascript
-// 示例：将QuantumultX的规则转换为Surge格式
-const quantumultXRule = "RULE-SET,https://example.com/quantumultx_rules.txt,Proxy";
-const surgeRule = quantumultXRule.replace("RULE-SET,", "DOMAIN-SUFFIX,");
-console.log(surgeRule);
