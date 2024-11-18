@@ -1,4 +1,4 @@
- [只有这一个号其他均是盗版](https://t.me/iuiuiui1)
+ [目前在Tg创建了频道关于你的加入](https://t.me/Jsforbaby)
 
 [![访问量](https://komarev.com/ghpvc/?username=Yu9191)](https://github.com/Yu9191)
 [![GitHub 关注者](https://img.shields.io/github/followers/Yu9191?style=social)](https://github.com/Yu9191)
