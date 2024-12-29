@@ -17,6 +17,9 @@
 - 累计访客量: ![累计访客量](https://profile-counter.glitch.me/Yu9191/count.svg)
 - [星标数量](https://img.shields.io/github/stars/Yu9191/Rewrite?style=social): ![星标数量](https://img.shields.io/github/stars/Yu9191/Rewrite?style=social)
 
+## My GitHub Contributions
+
+<div align="center"><img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" ></div>
 ## My Gtihub Trohpy
 
 <div align="center">
