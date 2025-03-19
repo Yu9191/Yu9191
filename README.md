@@ -1,59 +1,87 @@
-## 暂退 特殊原因
- [目前在Tg创建了频道欢迎你的加入](https://t.me/Jsforbaby)
-
-[![访问量](https://komarev.com/ghpvc/?username=Yu9191)](https://github.com/Yu9191)
-[![GitHub 关注者](https://img.shields.io/github/followers/Yu9191?style=social)](https://github.com/Yu9191)
-
-欢迎来到我的 GitHub 仓库！在这里，您可以找到我的最新项目和贡献。
-
-| 统计项   | 数量                                                                 |
-| -------- | -------------------------------------------------------------------- |
-| 总访问量 | [![总访问量](https://komarev.com/ghpvc/?username=Yu9191)](https://github.com/Yu9191) |
-| 关注者   | [![GitHub 关注者](https://img.shields.io/github/followers/Yu9191?style=social)](https://github.com/Yu9191) |
-
-请随意探索并为我的项目做出贡献。如果您觉得它们有用，请不要忘记给它们一个星标！
-
-- [GitHub 仓库](https://github.com/Yu9191)
-- 累计访客量: ![累计访客量](https://profile-counter.glitch.me/Yu9191/count.svg)
-- [星标数量](https://img.shields.io/github/stars/Yu9191/Rewrite?style=social): ![星标数量](https://img.shields.io/github/stars/Yu9191/Rewrite?style=social)
-
-## My GitHub Contributions
-
-<div align="center"><img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" ></div>
-
-## My Gtihub Trohpy
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Yu9191)
-
-</div>
- 
-## 仓库脚本合集 没加iTunes和api.reven的 请用叮当猫的
-
-脚本链接：[点击查看脚本](https://raw.githubusercontent.com/Yu9191/Rewrite/main/BabyScript.txt)
-
-最后更新时间：2024.3.28
-
-## iTunes 合集
-
-总共有 17 个软件在这个合集中。
-
-脚本链接：[点击查看脚本](https://raw.githubusercontent.com/Yu9191/Rewrite/main/iTunes.js)
-
-最后更新时间：2023.10.19
-
-## Revenuecat 合集
-
-总共有 11 个软件在这个合集中。
-
-脚本链接：[点击查看脚本](https://raw.githubusercontent.com/Yu9191/Rewrite/main/Revenuecat.js)
-
-最后更新时间：2023.10.5最新
-
-**请注意：** 这两个合集只包含iTunes和Revenuecat域名的软件。脚本仅供学习，请勿传播或售卖。如果您需要其他域名的软件，请查看仓库中的其他合集。
-
-后续的iTunes软件，移步到 [这个链接](https://github.com/Yu9191/Rewrite/tree/main/itunes)。
+# Yu9191's GitHub
 
 
 
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Yu9191&fontSize=80&animat Channel](https://img.shields.io/badge/Telegram-Channel-blue?style=flat-square&lroup](https://img.shields.io/badge/Telegram-Group-blue?styl Followers](https://img.shields.io/github/followers/Yu9191?styls](https://komarev.com/ghpvc/?username=Yu9191&colo Visitors](https://profile-counter.glitch.me/Yu9191/count号声明：仅此一号，其他均为假冒**
+
+
+
+## 关于本仓库
+
+这里汇集了实用脚本和工具集，专注于应用增强和功能解锁。精心设计的脚本集合帮助您轻松享受更多应用特性。
+
+
+
+| ![Stats](https://github-readme-stats.vercel.app/api?username=Yu9191&show_icons=true&theme=tokyonight&hide_border=true&count_priv://github-readme-stats.vercel.app/api/top-langs/?username=Yu9191&layout=compact&theme=tokyonight&hide_bord 我的贡献
+
+
+  
+
+
+## 个人成就
+
+
+  
+
+
+## 脚本合集
+
+### 通用脚本集
+
+
+  
+    
+  
+
+
+包含各种通用脚本，适用于多种场景和应用。不包含iTunes和Revenuecat API的脚本。
+
+### iTunes应用合集
+
+
+  
+    
+  
+
+
+精选17款iTunes域名应用的解锁脚本，持续更新中。
+
+### Revenuecat应用合集
+
+
+  
+    
+  
+
+
+包含11款使用Revenuecat API的应用解锁脚本，解锁更多高级功能。
+
+## 链接导航
+
+- [通用脚本](https://raw.githubusercontent.com/Yu9191/Rewrite/main/BabyScript.txt)
+- [iTunes脚本](https://raw.githubusercontent.com/Yu9191/Rewrite/main/iTunes.js)
+- [Revenuecat脚本](https://raw.githubusercontent.com/Yu9191/Rewrite/main/Revenuecat.js)
+- [iTunes软件集合](https://github.com/Yu9191/Rewrite/tree/main/itunes)
+
+## 联系方式
+
+
+  
+    
+  
+  
+    
+  
+  
+    
+  
+
+
+---
+
+
+  © 2025 Yu9191 — 脚本仅供学习交流，请勿用于商业用途
+  
+  ![Made with ❤️](https://forthebadge.
+
+---
