@@ -2,112 +2,100 @@
   
 # Yu9191's Script Collection
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Yu9191&fontSize=90&animation=fadeIn&fontAlignY=38&desc=iOS%20Scripts%20Collection&descAlignY=60&descAlign=62)
+![Header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12,19,24,30&height=300&section=header&text=iOS脚本宝库&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=55&rotate=13&desc=精选收藏，持续更新&descAlignY=70&descAlign=65)
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue?style=flat-square&logo=telegram)](https://t.me/ios151)
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-blue?style=flat-square&logo=telegram)](https://t.me/Jsforbaby)
-[![GitHub followers](https://img.shields.io/github/followers/Yu9191?style=flat-square&logo=github)](https://github.com/Yu9191)
-[![Profile views](https://komarev.com/ghpvc/?username=Yu9191&color=brightgreen&style=flat-square)](https://github.com/Yu9191)
-[![Visitors](https://profile-counter.glitch.me/Yu9191/count.svg)](https://github.com/Yu9191)
+[![Telegram Channel](https://img.shields.io/badge/官方频道-iOS151-1c86ff?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ios151)
+[![Telegram Group](https://img.shields.io/badge/交流群组-Jsforbaby-1c86ff?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Jsforbaby)
 
-**⚠️ 声明: 仅此一号，其他均为假冒 ⚠️**
+[![GitHub stars](https://img.shields.io/github/stars/Yu9191/Rewrite?style=for-the-badge&logo=github&color=ffd700)](https://github.com/Yu9191/Rewrite/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Yu9191/Rewrite?style=for-the-badge&logo=github&color=4db33d)](https://github.com/Yu9191/Rewrite/network/members)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=Yu9191%2FRewrite&countColor=%23263759&style=flat-square)](https://github.com/Yu9191/Rewrite)
+
+**⚠️ 官方声明：只有这一个账号，其他均为盗版 ⚠️**
 
 </div>
 
-## 📌 仓库概览
+## 🌟 仓库精华
 
-提供优质脚本合集，专注于iOS应用增强和功能解锁。本仓库包含多种类型的脚本，让您轻松享受应用更多功能。
+<p align="center">精心打造的脚本集合，专注于iOS应用增强与功能解锁。每一个脚本都经过精心设计和测试，为您带来最优质的使用体验。</p>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yu9191&repo=Rewrite&theme=react&hide_border=true&show_icons=true" alt="Repo Card">
+</div>
 
-| 💻 代码统计 | 🔄 活动记录 |
-|:---:|:---:|
-| <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Yu9191&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/> | <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yu9191&layout=compact&theme=tokyonight&hide_border=true"/> |
+## 🚀 功能亮点
+
+- 📱 **应用增强** - 解锁应用高级功能，提升使用体验
+- 🔐 **订阅解锁** - 支持多种订阅模式的应用解锁
+- 🔄 **定期更新** - 持续更新维护，确保脚本稳定可用
+- 🌐 **广泛兼容** - 适配各种工具，包括Quantumult X、Surge、Loon等
+
+## 📚 精选脚本
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/iTunes-Apps-0D96F6?style=for-the-badge&logo=apple&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Revenuecat-Apps-F65341?style=for-the-badge&logo=app-store&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <p>精选17款iTunes应用解锁脚本</p>
+      <a href="https://raw.githubusercontent.com/Yu9191/Rewrite/main/iTunes.js"><img src="https://img.shields.io/badge/获取脚本-blue?style=flat-square&logo=javascript"/></a>
+    </td>
+    <td align="center">
+      <p>11款Revenuecat API应用解锁</p>
+      <a href="https://raw.githubusercontent.com/Yu9191/Rewrite/main/Revenuecat.js"><img src="https://img.shields.io/badge/获取脚本-orange?style=flat-square&logo=javascript"/></a>
+    </td>
+  </tr>
+</table>
+
+## 💻 技术概览
+
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yu9191&layout=compact&theme=react&hide_border=true)](https://github.com/Yu9191/Rewrite)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yu9191&show_icons=true&theme=react&hide_border=true&count_private=true)](https://github.com/Yu9191)
 
 </div>
 
-## 🏆 贡献记录
+## 🏆 成就墙
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg">
-    <img alt="GitHub贡献图" src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Yu9191&theme=nord&row=1&column=6&no-frame=true&no-bg=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Yu9191&theme=flat&row=1&column=6&no-frame=true&no-bg=true">
+    <img width="98%" src="https://github-profile-trophy.vercel.app/?username=Yu9191&theme=flat&row=1&column=6&no-frame=true&no-bg=true" alt="Trophy">
   </picture>
 </div>
 
-## 🔮 成就展示
+## 🔥 贡献记录
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yu9191&theme=nord&row=1&column=6&no-frame=true&margin-w=15" alt="GitHub奖杯" width="100%">
-</div>
-
-## 📚 脚本合集
-
-### 🔧 通用脚本集
-
-<div align="center">
-  <a href="https://raw.githubusercontent.com/Yu9191/Rewrite/main/BabyScript.txt">
-    <img src="https://img.shields.io/badge/更新日期-2024.03.28-brightgreen?style=for-the-badge&logo=javascript">
-  </a>
-</div>
-
-多种通用型脚本合集，适用于各种场景和应用。不包含iTunes和Revenuecat API的脚本。
-
-### 🍎 iTunes应用合集
-
-<div align="center">
-  <a href="https://raw.githubusercontent.com/Yu9191/Rewrite/main/iTunes.js">
-    <img src="https://img.shields.io/badge/收录应用-17款-blue?style=for-the-badge&logo=apple">
-  </a>
-</div>
-
-精选17款iTunes域名应用的增强脚本，定期更新。
-**最后更新时间：** 2023.10.19
-
-### 💎 Revenuecat应用合集
-
-<div align="center">
-  <a href="https://raw.githubusercontent.com/Yu9191/Rewrite/main/Revenuecat.js">
-    <img src="https://img.shields.io/badge/收录应用-11款-orange?style=for-the-badge&logo=app-store">
-  </a>
-</div>
-
-11款使用Revenuecat API的高质量应用解锁脚本。
-**最后更新时间：** 2023.10.5
-
-## 🔗 快速链接
-
-<div align="center">
-
-| 脚本类型 | 链接 | 说明 |
-|:-------:|:----:|:----:|
-| 通用脚本 | [BabyScript.txt](https://raw.githubusercontent.com/Yu9191/Rewrite/main/BabyScript.txt) | 最全面的脚本合集 |
-| iTunes脚本 | [iTunes.js](https://raw.githubusercontent.com/Yu9191/Rewrite/main/iTunes.js) | 专用于iTunes应用 |
-| Revenuecat脚本 | [Revenuecat.js](https://raw.githubusercontent.com/Yu9191/Rewrite/main/Revenuecat.js) | 专用于Revenuecat API |
-| iTunes软件集合 | [iTunes目录](https://github.com/Yu9191/Rewrite/tree/main/itunes) | 后续iTunes软件更新位置 |
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Yu9191&theme=react-dark&hide_border=true&area=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Yu9191&theme=minimal&hide_border=true&area=true">
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yu9191&theme=minimal&hide_border=true&area=true" alt="Contribution Graph">
+  </picture>
 </div>
 
 ## 📱 联系方式
 
 <div align="center">
   <a href="https://t.me/ios151">
-    <img src="https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=for-the-badge&logo=telegram">
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-官方频道-1c86ff?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel">
+  </a>
   <a href="https://t.me/Jsforbaby">
-    <img src="https://img.shields.io/badge/Telegram-Group-2CA5E0?style=for-the-badge&logo=telegram">
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-交流群组-1c86ff?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Group">
+  </a>
   <a href="https://github.com/Yu9191">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/-GitHub主页-24292f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <sub>© 2024 Yu9191 — 脚本仅供学习交流，请勿用于商业用途</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,24,30&height=150&section=footer&fontSize=90" width="100%">
   
-  <br><br>
-  <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square">
+  <sub>© 2024 Yu9191 — 脚本仅供学习交流，请勿用于商业用途</sub>
 </div>
